@@ -20,6 +20,7 @@ HymnsCLI/
 
 ## 事前準備
 
+0. 您必須取得詩歌本資料庫，並將其放置到專案根目錄為.hymnsdb資料夾，包含db,bb,er,xg,xb,yb資料夾，裡面的檔案命名如db1.txt --> 大本詩歌第一首。寄信到shareuser.se7510@gmail.com要求解壓縮密碼。
 1. 確認環境已安裝 Python 3。
 2. 安裝相依套件：
 
